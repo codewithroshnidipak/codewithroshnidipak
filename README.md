@@ -13,12 +13,10 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
-
-## 📊 GitHub Stats
+---##  📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithroshnidipak&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithroshnidipak&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithroshnidipak&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=codewithroshnidipak&theme=tokyonight" width="48%" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithroshnidipak&layout=compact&theme=tokyonight" width="40%" />
