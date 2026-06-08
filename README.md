@@ -1,7 +1,7 @@
-# Hi there, I'm Roshnidipak 👋
+# Hi there, I'm Roshnidipakmahyavanshi 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&center=true&width=435&lines=Web+Developer+🌐;Android+Developer+📱;Cybersecurity+Enthusiast+🔐;Always+Learning%2C+Always+Building+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&center=true&width=435&lines=Web+Developer+🌐;Android+Developer+📱;Cybersecurity+Enthusiast+🔐;Always+Learning%2C+Always+Building+🚀" alt="Typing SVG" />](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&center=true&width=435&lines=Web+Developer;Android+Developer;Cybersecurity+Enthusiast;Always+Learning+Always+Building)
 </p>
 
 ---
@@ -30,7 +30,7 @@
 ## 🌱 Currently
 - 🔭 Working on Web & Android projects
 - 🌱 Learning Advanced Cybersecurity & Cloud Security
-- 💬 Ask me about HTML, CSS, JS, Android Dev
+- 💬 Ask me about HTML, CSS, JS, Android Dev, Python, Django , API's
 - 📫 Reach me: roshnitanvipatel98@gmail.com
 
 ---
