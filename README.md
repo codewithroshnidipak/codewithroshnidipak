@@ -1,7 +1,7 @@
 # Hey, I'm Roshnidipakmahyavanshi 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Android+App+Developer;Cybersecurity+Post+Graduate;Python+%7C+Django+%7C+DRF+%7C+Flask;JavaScript+%7C+HTML+%7C+CSS+%7C+Bootstrap;MySQL+%7C+PostgreSQL+%7C+REST+APIs;Building+Secure+%26+Scalable+Apps+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Web+Developer;Android+App+Developer;Cybersecurity+Post+Graduate;Python+%7C+Django+%7C+DRF+%7C+Flask;JavaScript+%7C+HTML+%7C+CSS+%7C+Bootstrap;MySQL+%7C+PostgreSQL+%7C+REST+APIs;Building+Secure+%26+Scalable+Websites+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@
 class Roshnidipak:
 
     name     = "Roshnidipak Mahyavanshi"
-    role     = ["Full Stack Web Developer", "Android Developer"]
+    role     = ["Web Developer", "Android Developer"]
     degree   = "Master's in Cybersecurity"
 
     skills = {
