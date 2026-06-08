@@ -1,9 +1,8 @@
 # Hi there, I'm Roshnidipakmahyavanshi 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&center=true&width=435&lines=Web+Developer+🌐;Android+Developer+📱;Cybersecurity+Enthusiast+🔐;Always+Learning%2C+Always+Building+🚀" alt="Typing SVG" />](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&center=true&width=435&lines=Web+Developer;Android+Developer;Cybersecurity+Enthusiast;Always+Learning+Always+Building)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&center=true&width=435&lines=Web+Developer;Android+Developer;Cybersecurity+Enthusiast;Always+Learning+Always+Building" alt="Typing SVG" />
 </p>
-
 ---
 
 ## 🛠 Tech Stack
